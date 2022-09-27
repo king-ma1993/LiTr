@@ -1,1 +1,2 @@
 include ':litr-demo', ':litr', ':litr-filters'
+include ':avffmpeg'
